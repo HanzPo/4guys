@@ -1,0 +1,15 @@
+
+body {
+    transition: all .2s ease-in-out;
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+i:hover {   
+    transform: scale(1.2);
+}
