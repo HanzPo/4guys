@@ -13,3 +13,8 @@ a {
 i:hover {   
     transform: scale(1.2);
 }
+
+.fg-logo {
+    max-height: 20vh;
+    width: fit-content;
+}
